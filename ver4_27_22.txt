@@ -1,0 +1,10 @@
+For Build
+4. Bundle Dashboard data and script for final delivery
+
+Like Dashboard test, we need to enter the following commands in  “Command prompt”
+- npm install
+- npm start 
+Need to close the “Command prompt”, and reopen it, navigate to the project folder and enter the following command.
+- npm run build
+After running the above commands, all the assets will be bundled into the 'dist' directory. 
+For the website to be shown on GitHub. All the files under the 'dist' directory should be copied to 'docs' manually.
